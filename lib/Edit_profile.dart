@@ -20,7 +20,7 @@ class Edit_profile extends StatelessWidget {
                   Container(
                     margin: EdgeInsets.only(left: 260),
                     child: Text(
-                      "Done",
+                      "Donee",
                       style: TextStyle(
                           fontSize: 16,
                           color: Color(0xff68b0f5),
